@@ -5,10 +5,10 @@ This Repository has been made for a pandas homework assignment for my Data Scien
 
 April, 2021
 
-#Brief Analysis
-*Charter Schools outperform district schools
-*small and medium schools performed very closely on all metrics but large school underperformed in comparison
-*the highest spending schools per student performed the worst
+# Brief Analysis
+* Charter Schools outperform district schools
+* Small and medium schools performed very closely on all metrics but large school underperformed in comparison
+* The highest spending schools per student performed the worst
 
 
 # Assignment Instructions
