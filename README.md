@@ -5,6 +5,12 @@ This Repository has been made for a pandas homework assignment for my Data Scien
 
 April, 2021
 
+#Brief Analysis
+*Charter Schools outperform district schools
+*small and medium schools performed very closely on all metrics but large school underperformed in comparison
+*the highest spending schools per student performed the worst
+
+
 # Assignment Instructions
 
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
