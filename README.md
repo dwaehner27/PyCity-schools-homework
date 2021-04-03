@@ -18,7 +18,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 Your final report should include each of the following:
 
 
-##District Summary
+## District Summary
 
 Create a high level snapshot (in table form) of the district's key metrics, including:
 
@@ -32,7 +32,7 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 
 
-##School Summary
+## School Summary
 
 Create an overview table that summarizes key metrics about each school, including:
 
@@ -48,7 +48,7 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 
 
-##Top Performing Schools (By % Overall Passing)
+## Top Performing Schools (By % Overall Passing)
 
 Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
 
@@ -64,7 +64,7 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 
 
-##Bottom Performing Schools (By % Overall Passing)
+## Bottom Performing Schools (By % Overall Passing)
 
 Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
@@ -77,7 +77,7 @@ Reading Scores by Grade
 Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 
-##Scores by School Spending
+## Scores by School Spending
 
 Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
 
@@ -88,7 +88,7 @@ Average Reading Score
 % Overall Passing (The percentage of students that passed math and reading.)
 
 
-##Scores by School Size
+## Scores by School Size
 
 Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
@@ -96,7 +96,7 @@ Scores by School Type
 
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-##As final considerations:
+## As final considerations:
 
 Use the pandas library and Jupyter Notebook.
 You must submit a link to your Jupyter Notebook with the viewable Data Frames.
@@ -104,7 +104,7 @@ You must include a written description of at least two observable trends based o
 See Example Solution for a reference on the expected format.
 
 
-##Hints and Considerations
+## Hints and Considerations
 
 These are challenging activities for a number of reasons. For one, these activities will require you to analyze thousands of records. Hacking through the data to look for obvious trends in Excel is just not a feasible option. The size of the data may seem daunting, but pandas will allow you to efficiently parse through it.
 
